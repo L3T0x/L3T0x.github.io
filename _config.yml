@@ -1,0 +1,10 @@
+title: "L3T0x"
+description: "Cybersecurity Researcher | Reverse Engineer | CTF Player"
+baseurl: "" 
+url: "https://L3T0x.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+author:
+  name: "L3T0x"
+  bio: "Cybersecurity researcher. I break binaries, analyze malware, and play CTFs."
