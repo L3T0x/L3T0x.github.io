@@ -8,6 +8,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
 
+# Choose skin (dark mode)
+minimal_mistakes_skin: "dark"
+
 author:
   name: "L3T0x"
   bio: "Cybersecurity researcher. I break binaries, analyze malware, and play CTFs."
