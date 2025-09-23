@@ -14,3 +14,16 @@ minimal_mistakes_skin: "dark"
 author:
   name: "L3T0x"
   bio: "Cybersecurity researcher. I break binaries, analyze malware, and play CTFs."
+
+# Layout
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
