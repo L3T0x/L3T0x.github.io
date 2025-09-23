@@ -3,13 +3,13 @@ description: "Cybersecurity Researcher | Reverse Engineer | CTF Player"
 baseurl: "" 
 url: "https://L3T0x.github.io"
 
+minimal_mistakes_skin: "dark"
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
 
-# Choose skin (dark mode)
-minimal_mistakes_skin: "dark"
 
 author:
   name: "L3T0x"
