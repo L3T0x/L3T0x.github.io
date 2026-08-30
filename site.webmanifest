@@ -1,0 +1,9 @@
+{
+  "name": "Afif Jazimin — Cybersecurity Portfolio",
+  "short_name": "Afif Jazimin",
+  "description": "Security consulting, DFIR, VAPT, security research, and evidence-backed technical work.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d0b",
+  "theme_color": "#090d0b"
+}
