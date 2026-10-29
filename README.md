@@ -1,6 +1,6 @@
 # Afif Jazimin — Cybersecurity Portfolio
 
-Static GitHub Pages portfolio for [L3T0x.github.io](https://l3t0x.github.io/).
+Static GitHub Pages portfolio for [L3T0x.github.io](https://l3t0x.github.io/portfolio).
 
 ## Structure
 
