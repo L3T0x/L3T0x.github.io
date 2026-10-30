@@ -1,18 +1,9 @@
-# Afif Jazimin — Cybersecurity Portfolio
+# Afif Jazimin — portfolio redirect
 
-Static GitHub Pages portfolio for [L3T0x.github.io](https://l3t0x.github.io/portfolio).
+This repository preserves the GitHub Pages root URL
+[l3t0x.github.io](https://l3t0x.github.io/) and sends visitors to the
+[current portfolio](https://l3t0x.github.io/portfolio/).
 
-## Structure
-
-- `index.html` — concise, accessible single-page portfolio
-- `verification.html` — dated APA 7 verification notes kept outside the main experience
-- `assets/styles.css` — responsive, dependency-free visual system
-- `assets/og.png` — social preview image
-- `assets/favicon.png` — browser tab icon
-- `404.html`, `robots.txt`, `sitemap.xml`, and `site.webmanifest` — publishing and discovery support
-
-The site has no build step or runtime dependencies. GitHub Pages can serve the repository directly from the root of the `main` branch.
-
-## Content policy
-
-Personal, education, experience, skills, project, competition, and credential claims are limited to Afif Jazimin Bin Saiful Zaidi’s dated 2026 résumé set. Public project claims are additionally grounded in the linked GitHub repositories. The site intentionally omits the résumé phone number.
+The portfolio source now lives in [L3T0x/portfolio](https://github.com/L3T0x/portfolio).
+The root repository keeps only the redirect, a fallback 404 page, the sitemap,
+robots rules, and the existing security contact file.
